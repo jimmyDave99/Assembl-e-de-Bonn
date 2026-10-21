@@ -39,6 +39,9 @@ header .menu li a {
     text-transform: capitalize;
     color: #fff;
 }
+header .menu li a:hover {
+    color: #675afe;
+}
 .container-text {
     height: calc(100vh - 80px);
     display: flex;
